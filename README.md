@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A student from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2P8z1bxoWEakEnT6Ds-4eq&ust=1670907400995000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC1s6el8_sCFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2P8z1bxoWEakEnT6Ds-4eq&ust=1670907400995000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC1s6el8_sCFQAAAAAdAAAAABAD" >
 
 <p align="left"> <a href="https://twitter.com/vaibhav_0p" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav_0p?logo=twitter&style=for-the-badge" alt="vaibhav_0p" /></a> </p>
 
