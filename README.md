@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A student from India.</h3>
+<h3 align="center">A 18 YearOld Trying to learn about tech.</h3>
 
 <img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2P8z1bxoWEakEnT6Ds-4eq&ust=1670907400995000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC1s6el8_sCFQAAAAAdAAAAABAD">
 
